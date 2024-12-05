@@ -1,0 +1,14 @@
+com\prac\tacos\TacoCloudApplication.class
+com\prac\tacos\web\OrderController.class
+com\prac\tacos\web\WebConfig.class
+com\prac\tacos\data\IngredientRepository.class
+com\prac\tacos\web\DesignTacoController.class
+com\prac\tacos\web\IngredientByIdConverter.class
+com\prac\tacos\data\JdbcIngredientRepository.class
+com\prac\tacos\Ingredient.class
+com\prac\tacos\data\JdbcOrderRepository.class
+com\prac\tacos\data\OrderRepository.class
+com\prac\tacos\Taco.class
+com\prac\tacos\IngredientRef.class
+com\prac\tacos\TacoOrder.class
+com\prac\tacos\Ingredient$Type.class
